@@ -4,7 +4,7 @@ STM32F103C8T6 breakout board — USB-powered, SWD/UART/I2C headers, 41 × 31 mm,
 
 ![3D render](images/render-3d.png)
 
-**Rev 0.1** · Status: [FILL: designed / fabricated / tested]
+
 
 ## Specs
 
