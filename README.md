@@ -1,4 +1,4 @@
-# STM32 Demo PCB
+# STM32 PCB
 
 STM32F103C8T6 breakout board — USB-powered, SWD/UART/I2C headers, 41 × 31 mm, 2 layers. KiCad 10.
 
@@ -85,7 +85,7 @@ images/                                     Render + schematic
 ## Programming
 
 - **SWD:** ST-Link V2 → J3. Flash with STM32CubeProgrammer or OpenOCD.
-- **Bootloader:** BOOT0 = 1 enters the ROM bootloader, but it listens on PA9/PA10, which are not broken out — use SWD.
+- **Bootloader:** BOOT0 = 1 enters the ROM bootloader, but it listens on PA9/PA10, which are not broken out.
 
 ## Known Issues / Rev 0.2
 
