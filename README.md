@@ -85,13 +85,7 @@ images/                                     Render + schematic
 ## Programming
 
 - **SWD:** ST-Link V2 → J3. Flash with STM32CubeProgrammer or OpenOCD.
-- **Bootloader:** BOOT0 = 1 enters the ROM bootloader, but it listens on PA9/PA10, which are not broken out.
-
-## Known Issues / Rev 0.2
-
-- No ESD protection or fuse on USB VBUS
-- USB shield unconnected
-- No reset button
+- **Bootloader:** BOOT0 = 1 enters the ROM bootloader.
 
 ## License
 
